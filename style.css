@@ -1,0 +1,41 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.yellow {
+    background-color: green;
+}
+H1 {
+    color:blue;
+    text-align: center
+}
+img {
+  width: 500px;
+  height: 318px
+}
+body{
+    background-color:skyblue;
+    text-align: left;
+}
+p{
+    font-size:24px
+}
+.picture {
+    width: 425px;
+    height: 319px;
+}
+.picture1 {
+    width: 425px;
+    height: 319px;
+}
+p1 {
+    font-size: 24px
+    
+}
+p2 {
+    font-size: 24px
+}
+.font1 {
+    font-family: 'Slabo 27px', serif;
+}

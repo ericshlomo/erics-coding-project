@@ -1,0 +1,27 @@
+h1 {
+    color: orange
+}
+h1 { 
+    text-align: center
+}
+body {
+    background-color: skyblue
+}
+.knicks {
+    width: 400px
+}
+.smith {
+    width: 308px
+}
+p1 {
+    font-size: 24px
+}
+.smith {
+    height: 300px
+}
+.knicks {
+    height: 300px
+}
+.font {
+    font-family: 'Slabo 27px', serif;
+}
