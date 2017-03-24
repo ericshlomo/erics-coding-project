@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
 h2 {
     color: orange
 }
@@ -7,6 +8,9 @@ h2 {
 
 body {
     background-color: skyblue
+}
+p1 {
+    font-family: 'Baloo Bhaina', cursive;
 }
 .knicks {
     width: 400px
@@ -22,7 +26,4 @@ p1 {
 }
 .knicks {
     height: 300px
-}
-.font {
-    font-family: 'Slabo 27px', serif;
 }

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
 #Top {
     color:blue;
     text-align: center;
@@ -6,6 +7,7 @@ body{
     background-color:skyblue;
     text-align: left;
     font-size: 24px;
+    font-family: 'Baloo Bhaina', cursive;
 }
 p{
     text-align: left;
@@ -24,7 +26,4 @@ p{
 h3 {
     text-align: center;
     color: blue;
-}
-.font3 {
-    font-family: 'Slabo 27px', serif;
 }
