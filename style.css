@@ -9,11 +9,11 @@ div {
 }
 H1 {
     color:blue;
-    text-align: center
+    text-align: center;
 }
 img {
   width: 500px;
-  height: 318px
+  height: 318px;
 }
 body{
     background-color:skyblue;
@@ -21,7 +21,7 @@ body{
     font-family: 'Baloo Bhaina', cursive;
 }
 p{
-    font-size:24px
+    font-size:24px;
 }
 .picture {
     width: 425px;
@@ -32,9 +32,9 @@ p{
     height: 319px;
 }
 p1 {
-    font-size: 24px
+    font-size: 24px;
     
 }
 p2 {
-    font-size: 24px
+    font-size: 24px;
 }

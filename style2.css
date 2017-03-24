@@ -11,17 +11,17 @@ body{
 }
 p{
     text-align: left;
-    font-size:54px
+    font-size:54px;
 }
 .p1 {
     font-size: 24px;
-    color: blue
+    color: blue;
 }
 .nyy {
     font-size: 50px;
 }
 .newyork {
-    width: 480px
+    width: 480px;
 }
 h3 {
     text-align: center;

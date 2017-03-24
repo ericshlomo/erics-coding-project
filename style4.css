@@ -1,15 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
 h4 {
-    text-align: center
+    text-align: center;
 }
 h4 {
-    font-size: 24px
+    font-size: 24px;
 }
 p5 {
-    font-size: 24px
+    font-size: 24px;
 }
 .giants {
-    width: 282px
+    width: 282px;
 }
 body {
-    background-color: skyblue
+    background-color: skyblue;
+    font-family: 'Baloo Bhaina', cursive;
 }
